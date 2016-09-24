@@ -1,0 +1,13 @@
+.thumbnail {
+    padding: 5px;
+    border: 1px solid #EEE;
+    text-align: center;
+}
+
+.thumbnail img {
+    max-width: 100%;
+}
+
+.thumbnail h3 {
+    font-size: 14px;
+}
